@@ -1,3 +1,5 @@
+fpath+=(${0:h})
+
 # Nix Install
 alias ni='nix-env -iA'
 
